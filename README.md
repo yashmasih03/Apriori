@@ -11,5 +11,7 @@ The proceedure of the code is as follows:
 5. Now by using the apriori algorithm we will find the optimal solution by min_support=0.2,max_len=2,metric="lift",min_threshold=2
 6. Hence we get the result as ancedents -> consequents
 
+i.e we can recommend a person who watched 12 Angryman to watch fargo and vice versa
+
 
 reference site:  https://levelup.gitconnected.com/create-a-recommendation-system-in-python-d7a95b2837ab
