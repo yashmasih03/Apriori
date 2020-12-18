@@ -3,7 +3,7 @@
 This is an implementation of Apriori Algorithm using Python.
 Here we have used python libraries like pandas,mlxtend
 
-The algorithm of the code is as follows:
+The proceedure of the code is as follows:
 1. First we will import the libraries and the two dataset files Movies.tsv, ratings.tsv.
 2. Then we are going to create a mapping between movieId and title.
 3. We will now sort the highrated movies > 4 ratings .
